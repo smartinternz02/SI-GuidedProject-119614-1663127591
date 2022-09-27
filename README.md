@@ -1,2 +1,1 @@
-# SPSGP-54858-Virtual-Internship---Android-Application-Development-Using-Kotlin
-Virtual Internship - Android Application Development Using Kotlin
+This Project is done by CHARAN SAI POOLA
